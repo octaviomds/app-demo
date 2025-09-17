@@ -1,9 +1,9 @@
 # With Docker
 
 
-application ECORIDE :
+Application ECORIDE :
 
-(https://ecoride-app-mu.vercel.app)
+https://ecoride-app-mu.vercel.app
 
 This examples shows how to use Docker with Next.js based on the [deployment documentation](https://nextjs.org/docs/deployment#docker-image). Additionally, it contains instructions for deploying to Google Cloud Run. However, you can use any container-based deployment host.
 
