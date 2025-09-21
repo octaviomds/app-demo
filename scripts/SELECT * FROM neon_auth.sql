@@ -1,0 +1,1 @@
+SELECT * FROM neon_auth.users_sync WHERE deleted_at IS NULL;
